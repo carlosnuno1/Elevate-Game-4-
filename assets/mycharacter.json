@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "monochrome_tilemap_transparent_packed.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 320,
+				"h": 320
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "tile_0000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": -1,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 0,
+						"y": 208,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "tile_0001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 16,
+						"y": 208,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "tile_0002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 16,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 16,
+						"h": 16
+					},
+					"frame": {
+						"x": 48,
+						"y": 208,
+						"w": 16,
+						"h": 16
+					}
+				},
+				{
+					"filename": "tile_0019.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 17,
+						"h": 15
+					},
+					"frame": {
+						"x": 65,
+						"y": 1,
+						"w": 17,
+						"h": 15
+					}
+				},
+				{
+					"filename": "tile_0026.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 24,
+						"h": 24
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 6,
+						"w": 20,
+						"h": 15
+					},
+					"frame": {
+						"x": 84,
+						"y": 1,
+						"w": 20,
+						"h": 15
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:ff5e5c05b55481eedfd466513be185a4:f7d13616b2472bd3cf868c84568199ee:5bfcaca056df1758c283a5bca0c8d3be$"
+	}
+}
